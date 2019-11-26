@@ -6,4 +6,4 @@ Cancer is a major cause of morbidity and mortality affecting population all arou
 The dataset used for our analysis was obtained from the UCI repository and made available through the Kaggle platform (https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29). The analysis was conducted using the software Knime and in this paper we will refer to nodes and the relative properties we used.
 
 
-![Knime Workflow](Knime Workflow.png)
+![Knime_Workflow](Knime_Workflow.png)
