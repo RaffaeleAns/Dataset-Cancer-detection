@@ -3,7 +3,7 @@
  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
-# Dataset-Cancer-Detection
+# Dataset Cancer Detection
 This Project has been developed by me and [Lorenzo Pastore](https://github.com/LorenzoPastore).
 
 In this paper we propose a Machine Learning classification models comparison based on a real case of data availability.
